@@ -22,8 +22,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # PROGRAM:
 ```
-Name: Yuvadarshini S
-Register number: 212221230126
+Name: CHARU DHARSHINI K
+Register number: 212221220008
 
 #Reading the given dataset
 
